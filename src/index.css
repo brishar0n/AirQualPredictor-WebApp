@@ -26,7 +26,6 @@ body, html {
   border-radius: 8px;
 }
 
-/* Styling for label and input to make them inline */
 label {
   display: inline-flex;
   align-items: center;
